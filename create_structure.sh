@@ -14,7 +14,7 @@ mkdir -p "$1"
 cd "$1"
 
 # Create the folder structure
-mkdir -p src/functions src/notebooks src/scripts tests docs data/raw data/processed results/figures results/tables results/reports env
+mkdir -p src/functions src/notebooks src/scripts tests docs data/raw data/processed results/figures results/tables results/reports env logs
 
 # Create common files
 touch README.md LICENSE .gitignore src/main.py tests/test_main.py docs/index.md src/notebooks/analysis.ipynb
