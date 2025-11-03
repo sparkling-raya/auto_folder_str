@@ -1,5 +1,5 @@
 # create_structure.sh
-## How it works
+## Usage
 
 Run this the first thing when you want to create a project folder
 
