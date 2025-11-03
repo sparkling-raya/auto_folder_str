@@ -75,13 +75,13 @@ bio-proj/
 
 1) Run with default name:
 
-    bash setup_bio_proj.sh
+    `bash setup_bio_proj.sh`
 
 → Creates a new folder named `bio-proj/`.
 
 2) Run with a custom project name:
 
-    bash setup_bio_proj.sh my-cool-project
+    `bash setup_bio_proj.sh my-cool-project`
 
 → Creates `my-cool-project/` instead.
 
