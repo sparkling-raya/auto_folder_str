@@ -41,7 +41,7 @@ It creates a ready-to-use structure for shared pipelines, pilot tool testing, do
 ## What it creates
 
 After running the script, you'll get this structure:
-
+```
 bio-proj/
 ├─ pipeline/
 │  ├─ nextflow/
@@ -68,7 +68,7 @@ bio-proj/
 ├─ .github/workflows/ci.yml
 ├─ .gitignore
 └─ README.md
-
+```
 ---
 
 ## Usage
